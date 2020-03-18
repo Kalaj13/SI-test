@@ -1,2 +1,7 @@
 remote pull file
+<<<<<<< HEAD
+-Hi how are you
 Hello my friend
+
+
+
